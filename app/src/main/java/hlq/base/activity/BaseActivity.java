@@ -16,7 +16,7 @@ import hlq.widget.TitleBar;
 
 
 /**
- * Created by mengdongfengf on 2018/8/24.
+ * Created by mengdongfengfeng on 2018/8/24.
  */
 
 public abstract class BaseActivity extends Activity {
